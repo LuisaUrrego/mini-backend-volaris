@@ -1,0 +1,903 @@
+{
+  "flights": [
+    {
+        "id": 1,
+      "flight_code": "SF0",
+      "departure": {
+        "airport": "San Francisco International",
+        "iata": "DFW"
+      },
+      "arrival": {
+        "airport": "Dallas/Fort Worth International",
+        "iata": "DFW"
+      },
+      "flight_infomation":{
+        "departure_date": "2023-08-12",
+        "depature_time":"8:30",
+        "arrival_date":"2023-08-12",
+        "arrival_time":"11:30",
+        "duration":"03:00",
+        "price":"300.000",
+        "luggage":{
+            "personal_luggage": {
+                "price":"40.000"
+            },
+            "hand_luggage": {
+                "price":"65.000"
+            },
+            "25kg": {
+                "price":"100.000"
+            }
+        }
+      },
+      "scales": {
+        "0": true,
+        "1": false
+      },
+      "seat_selections": [
+        {
+          "id": "1A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "1F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "2F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "3F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "4E",
+          "availability": {
+            "available": false,
+            "reserved": true,
+            "selected": false
+          }
+        },
+        {
+          "id": "4F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "5F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6D",
+          "availability": {
+            "available": false,
+            "reserved": true,
+            "selected": false
+          }
+        },
+        {
+          "id": "6E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "6F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "7F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "8F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9E",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "9F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10A",
+          "availability": {
+            "available": false,
+            "reserved": true,
+            "selected": false
+          }
+        },
+        {
+          "id": "10B",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10C",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10D",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+          "id": "10E",
+          "availability": {
+            "available": false,
+            "reserved": true,
+            "selected": false
+          }
+        },
+        {
+          "id": "10F",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        }
+      ]
+    },
+    {
+        "id": 2,
+      "flight_code": "ELF",
+      "departure": {
+        "airport": "Aeropuerto chicago",
+        "iata": "ACA"    
+      },
+      "arrival": {
+        "airport": "Aeropuerto Internacional de Ciudad de México",
+        "iata": "MEX"
+      },
+      "flight_infomation":{
+        "departure_date": "2023-10-25",
+        "depature_time":"11:30",
+        "arrival_date":"2023-10-26",
+        "arrival_time":"4:00",
+        "duration":"04:00",
+        "price":"800.000",
+        "luggage":{
+            "personal_luggage": {
+                "price":"40.000"
+            },
+            "hand_luggage": {
+                "price":"65.000"
+            },
+            "25kg": {
+                "price":"100.000"
+            }
+        }
+      },
+      "scales": {
+        "0": true
+      },
+      "seat_selections": [
+        {
+          "id": "1A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+            "id": "1B",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1C",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1D",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1E",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1F",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        }
+
+    ]
+    },
+    {
+        "id": 3,
+      "flight_code": "ALO",
+      "departure": {
+        "airport": "Aeropuerto Internacional de Cancun ",
+        "iata": "CUN"
+      
+      },
+      "arrival": {
+        "airport": "Aeropuerto Internacional de Montevideo Carrasco",
+        "iata": "MVD"
+      },
+      "flight_infomation":{
+        "departure_date": "2023-02-01",
+        "depature_time":"5:40",
+        "arrival_date":"2023-02-01",
+        "arrival_time":"9:40",
+        "duration":"04:00",
+        "price":"890.000",
+        "luggage":{
+            "personal_luggage": {
+                "price":"40.000"
+            },
+            "hand_luggage": {
+                "price":"65.000"
+            },
+            "25kg": {
+                "price":"100.000"
+            }
+        }
+      },
+      "scales": {
+        "0": true
+      }
+    },
+    {
+        "id": 4,
+      "flight_code": "LFU",
+      "departure": {
+        "airport": "Aeropuerto Internacional de La Habana José Martí",
+        "iata": "HAV"
+      
+      },
+      "arrival": {
+        "airport": "Aeropuerto Internacional de Sao Paulo-Guarulhos",
+        "timezone": "America/Sao_Paulo",
+        "iata": "GRU"
+     
+      },
+      "flight_infomation":{
+        "departure_date": "2023-06-15",
+        "depature_time":"12:15",
+        "arrival_date":"2023-08-12",
+        "arrival_time":"2:40",
+        "duration":"03:00",
+        "price":"1.000.000",
+        "luggage":{
+            "personal_luggage": {
+                "price":"40.000"
+            },
+            "hand_luggage": {
+                "price":"65.000"
+            },
+            "25kg": {
+                "price":"100.000"
+            }
+        }
+      },
+      "scales": {
+        "0": true,
+        "1": false
+      },
+      "seat_selections": [
+        {
+          "id": "1A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+            "id": "1B",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1C",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1D",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1E",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1F",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        }
+
+    ]
+    },
+    {
+        "id": 5,
+      "flight_code": "JMC",
+      "departure": {
+        "airport": "Aeropuerto Internacional de Miami",
+        "iata": "MIA"
+      
+      },
+      "arrival": {
+        "airport": "Aeropuerto Internacional de Bogotá El Dorado",
+        "iata": "BOG"
+      },
+      "flight_infomation":{
+        "departure_date": "2023-03-27",
+        "depature_time":"1:30",
+        "arrival_date":"2023-03-27",
+        "arrival_time":"3:40",
+        "duration":"03:00",
+        "price":"950.000",
+        "luggage":{
+            "personal_luggage": {
+                "price":"40.000"
+            },
+            "hand_luggage": {
+                "price":"65.000"
+            },
+            "25kg": {
+                "price":"100.000"
+            }
+        }
+      },
+      "scales": {
+        "0": true
+      },
+      "seat_selections": [
+        {
+          "id": "1A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+            "id": "1B",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1C",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1D",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1E",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1F",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        }
+
+    ]
+    },
+    {
+        "id": 6,
+      "flight_code": "AMR",
+      "departure": {
+        "airport": "Aeropuerto Internacional de Lima Jorge Chávez",
+        "iata": "LIM"
+      },
+      "arrival": {
+        "airport": "Aeropuerto Internacional de Buenos Aires-Ezeiza",
+        "iata": "EZE"
+      },
+      "flight_infomation":{
+        "departure_date": "2023-10-25",
+        "depature_time":"9:50",
+        "arrival_date":"2023-08-12",
+        "arrival_time":"1:30",
+        "duration":"05:00",
+        "price":"300.000",
+        "luggage":{
+            "personal_luggage": {
+                "price":"40.000"
+            },
+            "hand_luggage": {
+                "price":"65.000"
+            },
+            "25kg": {
+                "price":"100.000"
+            }
+        }
+      },
+      "scales": {
+        "0": true,
+        "1": false
+      },
+      "seat_selections": [
+        {
+          "id": "1A",
+          "availability": {
+            "available": true,
+            "reserved": false,
+            "selected": false
+          }
+        },
+        {
+            "id": "1B",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1C",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1D",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1E",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        },
+        {
+            "id": "1F",
+            "availability": {
+              "available": true,
+              "reserved": false,
+              "selected": false
+            }
+        }
+
+    ]
+    }
+]
+   
+}
